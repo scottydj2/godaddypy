@@ -17,7 +17,7 @@ except ImportError:
 
 __all__ = ["Client", "BadResponse"]
 
-GODADDY_API_BASE_URL = "https://api.godaddy.com/"
+GODADDY_API_BASE_URL = "https://api.ote-godaddy.com/"
 GODADDY_API_VERSION = "v1"
 
 
